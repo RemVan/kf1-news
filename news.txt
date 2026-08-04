@@ -1,4 +1,3 @@
-<BODY>
 KILLING FLOOR COMMUNITY NEWS
 
 [04.08.2026]
@@ -12,4 +11,3 @@ Join the new community server.
 [10.08.2026]
 TEST NEWS 123
 Everyone is welcome.
-</BODY>

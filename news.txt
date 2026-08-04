@@ -1,7 +1,7 @@
 Проверка текста
 
-News system restored!
-The original Killing Floor 1 news system is alive again.
+Должно работать
+Но не может
 
 August 4, 2026
 Community news will appear here.
